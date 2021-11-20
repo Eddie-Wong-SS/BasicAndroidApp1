@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Basic App 1</string>
+    <string name="edit_message">Enter some text</string>
+    <string name="button_send">Input</string>
+    <string name="password_input">Enter your password</string>
+    <string name="prompt">Pick a planet</string>
+    <string-array name="Planets">
+        <item>Quicksilver</item>
+        <item>Aphrodite</item>
+        <item>Terra</item>
+        <item>War</item>
+        <item>Womanizer</item>
+        <item>UrAnus</item>
+        <item>Poseidon</item>
+        <item>Not a Planet</item>
+    </string-array>
+</resources>
